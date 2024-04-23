@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://vicowong.github.io/post/</loc>
+    <loc>http://username.github.io/post/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/</loc>
+    <loc>http://username.github.io/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/categories/</loc>
+    <loc>http://username.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/tags/css/</loc>
+    <loc>http://username.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/tags/html/</loc>
+    <loc>http://username.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/tags/markdown/</loc>
+    <loc>http://username.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/post/markdown-syntax/</loc>
+    <loc>http://username.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/categories/syntax/</loc>
+    <loc>http://username.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/tags/</loc>
+    <loc>http://username.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/categories/themes/</loc>
+    <loc>http://username.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/post/placeholder-text/</loc>
+    <loc>http://username.github.io/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/tags/text/</loc>
+    <loc>http://username.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/post/math-typesetting/</loc>
+    <loc>http://username.github.io/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/tags/emoji/</loc>
+    <loc>http://username.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/post/emoji-support/</loc>
+    <loc>http://username.github.io/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/about/</loc>
+    <loc>http://username.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://vicowong.github.io/archives/</loc>
+    <loc>http://username.github.io/archives/</loc>
   </url><url>
-    <loc>http://vicowong.github.io/search/</loc>
+    <loc>http://username.github.io/search/</loc>
   </url>
 </urlset>
