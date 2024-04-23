@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://coderzh.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on vicowong github website</title>
+    <link>http://vicowong.github.io/tags/</link>
+    <description>Recent content in Tags on vicowong github website</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://coderzh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://vicowong.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>http://coderzh.github.io/tags/css/</link>
+      <link>http://vicowong.github.io/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://coderzh.github.io/tags/css/</guid>
+      <guid>http://vicowong.github.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://coderzh.github.io/tags/html/</link>
+      <link>http://vicowong.github.io/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://coderzh.github.io/tags/html/</guid>
+      <guid>http://vicowong.github.io/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://coderzh.github.io/tags/markdown/</link>
+      <link>http://vicowong.github.io/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://coderzh.github.io/tags/markdown/</guid>
+      <guid>http://vicowong.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>http://coderzh.github.io/tags/text/</link>
+      <link>http://vicowong.github.io/tags/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://coderzh.github.io/tags/text/</guid>
+      <guid>http://vicowong.github.io/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://coderzh.github.io/tags/emoji/</link>
+      <link>http://vicowong.github.io/tags/emoji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://coderzh.github.io/tags/emoji/</guid>
+      <guid>http://vicowong.github.io/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
